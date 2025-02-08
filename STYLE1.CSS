@@ -68,10 +68,10 @@ legend{
 .log {
     font-size: 18px;
     border-radius: 20px;
-    border:1.5px solid #67645e;
+    border:1.5px solid #c695b6;
     width: 100px;
-    background-color: rgba(215, 211, 211, 0.18);
-    color: #67645e;
+    background-color: rgba(230, 210, 221, 0.18);
+    color: #c098b8;
 }
 
 input {
@@ -80,17 +80,17 @@ input {
     height: 40px;
     width: 90%;
     background-color: white;
-    color: #67645e;
+    color: #e7bce5;
 }
 .radio-group {
     display: inline-block;
-    color: #67645e;
+    color: #dda7d2;
     background-color: rgba(215, 211, 211, 0.18);
     
 }
 .radio-group input{
     height: 15px;
-    color: #67645e;
+    color: #e4a8cf;
     background-color: rgba(215, 211, 211, 0.18);
 }
 .radio-group label{
@@ -99,5 +99,5 @@ input {
 footer{
     background-color: rgba(215, 211, 211, 0.616);
     text-align: center;
-    color: #67645e;
+    color: #d597cb;
 }
