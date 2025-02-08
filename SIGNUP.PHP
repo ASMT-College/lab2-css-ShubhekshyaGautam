@@ -51,7 +51,7 @@
 </section>
 
 <footer>
-Copywrite @ Yunisha's Project <?php echo date('Y'); ?>
+Copywrite @ Shubhekshya's Project <?php echo date('Y'); ?>
 </footer>
 </body>
 </html>
